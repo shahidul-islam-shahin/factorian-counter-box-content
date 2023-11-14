@@ -1,0 +1,16 @@
+.factorian-content-block {
+    padding: 100px;
+}
+
+.section-title {
+    margin-bottom: 50px;
+}
+
+.counter-number {
+    font-weight: 700;
+    font-size: 50px;
+} 
+
+.counter-number + p {
+    color: #555;
+}
